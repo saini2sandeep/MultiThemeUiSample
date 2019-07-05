@@ -1,0 +1,19 @@
+
+‹"squid:ClassVariableVisibilityCheck"VMake mThemeList a static final constant or non-public and provide accessors if needed.(¨Õø8ŸñÀ¼¹-
+“"squid:ClassVariableVisibilityCheck "YMake selectedTheme a static final constant or non-public and provide accessors if needed.(ÿ÷¹øÿÿÿÿ8ŸñÀ¼¹-
+Nsquid:S1444"0Make this "public static mThemeList" field final(¨Õø8ŸñÀ¼¹-
+;squid:S2386"Make this member "protected".(¨Õø8ŸñÀ¼¹-
+Vsquid:S1444 "3Make this "public static selectedTheme" field final(ÿ÷¹øÿÿÿÿ8ŸñÀ¼¹-
+Xsquid:S2387&":"appPreferences" is the name of a field in "BaseActivity".(ã©ñ·8ÈÏ§¾¹-
+X"squid:SwitchLastCaseIsDefaultCheck„""Add a default case to this switch.(È½ô8 ±Ü¼¹-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(ó©¨8”êá¼¹-
+usquid:UselessImportCheck"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8²–åº¹-
+jsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ8 ±Ü¼¹-
+isquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(œºş„8”êá¼¹-
+X"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8 ±Ü¼¹-
+nsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8”êá¼¹-
+Tsquid:S26968"6Make the enclosing method "static" or remove this set.(„ğã¬8ÈÏ§¾¹-
+squid:S1450""\Remove the "mRecyclerView" field and declare it as a local variable in the relevant methods.(Òéıÿÿÿÿ8‚åÃ¼¹-
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8”êá¼¹-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ğË•ªùÿÿÿÿ8²–åº¹-
+Tsquid:S26966"6Make the enclosing method "static" or remove this set.(¤ÉØº8ÈÏ§¾¹-

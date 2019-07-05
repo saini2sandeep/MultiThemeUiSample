@@ -1,0 +1,3 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(ž÷©«ûÿÿÿÿ8ë¹Áº¹-
+Žsquid:S1319h"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Æ‹É¼8…ëÄ¼¹-

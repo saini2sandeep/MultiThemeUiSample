@@ -1,0 +1,8 @@
+
+Osquid:S1444",Make this "public static mTheme" field final(„¸¡üùÿÿÿÿ8õÛ–¾¹-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„¸¡üùÿÿÿÿ8’¥œ¾¹-
+Œ"squid:ClassVariableVisibilityCheck"RMake mTheme a static final constant or non-public and provide accessors if needed.(„¸¡üùÿÿÿÿ8õÛ–¾¹-
+Usquid:S1444"2Make this "public static mIsNightMode" field final(÷Şòùÿÿÿÿ8íË½º¹-
+Ysquid:S2696 "6Make the enclosing method "static" or remove this set.(–İ¬€øÿÿÿÿ8¶‚œ¾¹-
+’"squid:ClassVariableVisibilityCheck"XMake mIsNightMode a static final constant or non-public and provide accessors if needed.(÷Şòùÿÿÿÿ8íË½º¹-
+Ysquid:S2696""6Make the enclosing method "static" or remove this set.(Î÷Í˜ıÿÿÿÿ8¶‚œ¾¹-

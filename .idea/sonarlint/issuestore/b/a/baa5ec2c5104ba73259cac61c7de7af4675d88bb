@@ -1,0 +1,11 @@
+
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(æ¦¯8­ìÌ½¹-
+esquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(Ğº’8­ìÌ½¹-
+…squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "jsonString".(ã±¥õøÿÿÿÿ8­ìÌ½¹-
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ù‚˜ûøÿÿÿÿ8­ìÌ½¹-
+hsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ÃÌ	8­ìÌ½¹-
+usquid:S27371"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8­ìÌ½¹-
+usquid:S2737!"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8­ìÌ½¹-
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(“ğÊÔ8­ìÌ½¹-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ğ¥–8­ìÌ½¹-
+jsquid:S00112%"FDefine and throw a dedicated exception instead of using a generic one.(éï®Ûşÿÿÿÿ8­ìÌ½¹-

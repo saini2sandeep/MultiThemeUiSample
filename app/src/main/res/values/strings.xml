@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Multi-Theme-UI</string>
+
+
+    <!-- Registration Screen-->
+    <string name="welcome_to_naryana_text">Welcome to Narayana’s \nNLearn Portal</string>
+    <string name="login_instruction_text">Use login details shared to your registered phone number</string>
+    <string name="admission_number">Admission Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="show">Show</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="enter_admission_number">Enter Your Admission Number !!</string>
+
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="please_enter_admission_no">Plesae enter Your Admission Number</string>
+
+
+    <string name="video_shoot_tip">Drag to select the segment within %d second that you want to post！</string>
+    <string name="open_permission">Open permission</string>
+    <string name="video_record_des">To record a video, you need to give the camera and microphone access.</string>
+    <string name="recording">RECORD</string>
+    <string name="back">Back</string>
+    <string name="finish">Finish</string>
+    <string name="trimmed_done">video trim completed！</string>
+    <string name="trimming">trimming video...</string>
+
+
+</resources>
